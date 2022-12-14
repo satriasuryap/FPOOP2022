@@ -4,7 +4,7 @@ Satria Surya Prana
 5025211073
 
 1. Casting
-https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/GamePlay.java#L90%208
+https://github.com/satriasuryap/FPOOP2022/blob/1c710e554c54e1e0a1029867bb0d67dd436e6ead/PBOFINALPROJECT/src/BB/GamePlay.java#L90
 
 2. Constructor
 https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/MapGenerator.java#L6-L18
