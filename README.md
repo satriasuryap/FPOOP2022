@@ -4,25 +4,25 @@ Satria Surya Prana
 5025211073
 
 1. Casting
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/GamePlay.java#L90
-](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/GamePlay.java#L90%208)
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/GamePlay.java#L90%208
+
 2. Constructor
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/MapGenerator.java#L6-L18](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/MapGenerator.java#L6-L18%2011)
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/MapGenerator.java#L6-L18
 
 3. Overloading
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/GamePlay.java#L180-L197](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/GamePlay.java#L180-L197%2014)
-https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Item.java#L17-L23
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/GamePlay.java#L180-L197
 
 4. Overridng
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/MapGenerator.java#L20-L23](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/MapGenerator.java#L20-L23%2017)
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/Brick.java#L43-L49](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Brick.java#L43-L49)
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/MapGenerator.java#L20-L23
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/Brick.java#L43-L49
+https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Item.java#L17-L23
 
 5. Encapsulation
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/MapGenerator.java#L25-L54](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/MapGenerator.java#L25-L54%2021)
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/MapGenerator.java#L25-L54
 https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Item.java#L41-L48
 
 6. Inheritance
-[https://github.com/satriasuryap/FPOOP2022/blob/main/PBOFINALPROJECT/src/BB/Ball.java#L5](https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Ball.java#L5)
+https://github.com/satriasuryap/FPOOP2022/blob/666be61e9098a3afa06a81bcf5c1565f9f091cde/PBOFINALPROJECT/src/BB/Ball.java#L5
 https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Brick.java#L7
 https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Intro.java#L3
 https://github.com/satriasuryap/FPOOP2022/blob/e460aaadadc6ca5ef01c7bd32bc2cdfe9e7ea2f2/PBOFINALPROJECT/src/BB/Item.java#L6
