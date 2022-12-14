@@ -3,6 +3,11 @@
 Satria Surya Prana
 5025211073
 
+References:
+https://www.youtube.com/watch?v=69-u9S1_p1k
+https://www.youtube.com/watch?v=sHgnw7SGLyE
+https://zetcode.com/javagames/breakout/
+
 1. Casting
 https://github.com/satriasuryap/FPOOP2022/blob/1c710e554c54e1e0a1029867bb0d67dd436e6ead/PBOFINALPROJECT/src/BB/GamePlay.java#L90
 
